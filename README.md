@@ -1,4 +1,4 @@
-# Tutorial on columnar analysis at CoDaS-HEP on July 23, 2025, at Princeton
+# Columnar Analysis Tutorial at CoDaS-HEP on July 23, 2025, at Princeton
 
 Click on this link:
 
